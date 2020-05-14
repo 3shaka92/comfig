@@ -1,2 +1,2 @@
-# comfig
-springcloud comfig
+# config
+springcloud config
